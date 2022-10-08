@@ -1,0 +1,35 @@
+.table {
+  margin: 90px 550px;
+}
+.box {
+  background-color: cyan;
+  padding: 10px;
+  border: 1px solid cyan;
+  width: 100px;
+  height: 100px;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  margin-left: 38%;
+  font-size: 3em;
+}
+.modal {
+  display: none;
+  width: fit-content;
+  height: fit-content;
+}
+.img {
+  display: none;
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  border: 1px solid black;
+}
+#Progress_Div {
+  margin-left: 40%;
+}
+.Progress {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+}
